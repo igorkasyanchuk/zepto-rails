@@ -9,7 +9,7 @@ This gem provides Zepto 1.1.2
 Add zepto-rails to the Gemfile.
 
 ```
-gem 'zepto-rails', :github => 'frontfoot/zepto-rails'
+gem 'zepto-rails', :github => 'igorkasyanchuk/zepto-rails'
 ```
 
 And run `bundle install`.
