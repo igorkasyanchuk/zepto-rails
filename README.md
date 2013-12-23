@@ -2,7 +2,7 @@
 
 Zepto for the Rails asset pipeline.
 
-This gem provides Zepto 1.0.0
+This gem provides Zepto 1.1.2
 
 ## Installation
 
@@ -38,6 +38,7 @@ If you only want to include some of the modules in zepto you can add them indivi
 //= require 'zepto/gesture.js'
 //= require 'zepto/stack.js'
 //= require 'zepto/ios3.js'
+.....
 ```
 
 Or if you want to include all of the modules add this line to your `app/assets/javascripts/application.js`:

@@ -5,3 +5,5 @@
 //= require 'zepto/fx.js'
 //= require 'zepto/ajax.js'
 //= require 'zepto/form.js'
+//= require 'zepto/ie.js'
+//= require 'zepto/zepto.csrf.js'
